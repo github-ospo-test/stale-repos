@@ -1,4 +1,4 @@
-# Stale Repos Action
+# OSPO Stale Repos Action
 
 [![Lint Code Base](https://github.com/github/stale-repos/actions/workflows/linter.yaml/badge.svg)](https://github.com/github/stale-repos/actions/workflows/linter.yaml)
 [![CodeQL](https://github.com/github/stale-repos/actions/workflows/github-code-scanning/codeql/badge.svg)](https://github.com/github/stale-repos/actions/workflows/github-code-scanning/codeql)
